@@ -1,2 +1,4 @@
-# Formularios
-Utiliza los formularios como guía para realizarlos con un Lenguaje de Etiquetas y Programación
+# Problemática
+En la República de Guatemala, actualmente, hay cientos de personas que asisten a las oficinas centrales del Instituto Guatemalteco de Seguridad Social mejor conocido como IGSS, para afiliarse a dicha institución. Los beneficios que conlleva la afiliación de un trabajador con una cuota mínima mensual son: atención médica en Unidades Asistenciales del IGSS, hospitalización, tratamiento psicológico y social, rehabilitación, entre otras. Pero, para poder pertenecer al grupo de trabajadores sociales, se requiere de una inscripción presencial, ya sea personal y/o corporativa, en el que un agente realizará el proceso debido para su inscripción y uso de beneficios inmediatos.
+
+Con el fin de proporcionar a la población un método fácil, ágil y práctico desde la comodidad de su casa, se ha solicitado a una persona con conocimientos en informática y programación, la realización de un formulario que solicite los datos necesarios para su debida inscripción en línea.
